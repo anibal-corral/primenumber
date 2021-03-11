@@ -1,0 +1,23 @@
+{
+  "name": "primenumber",
+  "version": "1.0.0",
+  "description": "Realizar un algoritmo que imprima los números primos entre 2 y  un número dado, de forma descendente.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anibal-corral/primenumber.git"
+  },
+  "keywords": [
+    "primenumber",
+    "fpay"
+  ],
+  "author": "anibal.corral@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anibal-corral/primenumber/issues"
+  },
+  "homepage": "https://github.com/anibal-corral/primenumber#readme"
+}
