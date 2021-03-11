@@ -4,7 +4,7 @@
   "description": "Realizar un algoritmo que imprima los números primos entre 2 y  un número dado, de forma descendente.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha './specs/*.spec.js'"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/anibal-corral/primenumber/issues"
   },
-  "homepage": "https://github.com/anibal-corral/primenumber#readme"
+  "homepage": "https://github.com/anibal-corral/primenumber#readme",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
 }
