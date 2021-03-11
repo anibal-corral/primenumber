@@ -26,3 +26,7 @@ Para ejecutar el proyecto, por ejemplo evaluando el número 11, debería ser as�
 # branch withStructure
 Esta rama contiene el proyecto antarior pero con estructura tal que cada capa se encargue de hacer su propio trabajo.
 Para ejecutar el proyecto, por ejemplo evaluando el número 11, debería ser así: node src/index.js 11
+
+# branch withUnitTest
+Esta rama contiene el proyecto antarior pero añadiendo Unit Test con Mocha y Chai.
+Para ejecutar las pruebas: npm run test
