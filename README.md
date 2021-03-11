@@ -18,3 +18,11 @@ Criterios de evaluación:
 
     • Subir a github y enviar la URL del repositorio para revisar el código
     • Si decides usar docker, URL de la imagen pública en Docker Hub
+
+# branch basic
+Esta rama contiene el proyecto resolviendo lo mínimo de lo solicitado.
+Para ejecutar el proyecto, por ejemplo evaluando el número 11, debería ser así: node src/index.js 11
+
+# branch withStructure
+Esta rama contiene el proyecto antarior pero con estructura tal que cada capa se encargue de hacer su propio trabajo.
+Para ejecutar el proyecto, por ejemplo evaluando el número 11, debería ser así: node src/index.js 11
